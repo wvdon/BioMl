@@ -1,5 +1,5 @@
 ## BioML
-where is a project summary the knowledge of Deep learning in life science by zzu group (Bio for machine learning)
+which is a project summary the knowledge of Deep learning in life science by zzu group (Bio for machine learning)
 
 ## paper
 [Machine Learning in Genomic Medicine: A Review of Computational Problems and Data Sets](https://ieeexplore.ieee.org/abstract/document/7347331/)
