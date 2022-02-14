@@ -15,7 +15,7 @@ which is a project summary the knowledge of Deep learning in life science by zzu
 ## content
  
 ## Deep learning in life science ZZU study group agendas
-[Spring 2021 6.874 Computational Systems Biology: Deep Learning in the Life Sciences](mit6874.github.io)
+[Spring 2021 6.874 Computational Systems Biology: Deep Learning in the Life Sciences](https://mit6874.github.io/)
 
 [gokceneraslan/awesome-deepbio: A curated list of awesome deep learning applications in the field of computational biology](github.com/gokceneraslan/awesome-deepbio)
 
