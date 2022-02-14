@@ -27,9 +27,11 @@ where is a project summary the knowledge of Deep learning in life science by zzu
   [Maximum entropy methods for extracting the learned features of deep neural networks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005836) (史健翔)
 
 **February 16:**
+
   Generative Models, GANs, VAE  (吴卫东)
   
   **Paper discussion:**
+  
   [Not Just A Black Box: Learning Important Features Through Propagating Activation Differences](http://proceedings.mlr.press/v70/shrikumar17a) (贾永亮)
   
   [Visualizing and Understanding Convolutional Networks](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_53) (吴卫东)
